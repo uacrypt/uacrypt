@@ -1,5 +1,5 @@
 {
-  "name": "ua-crypt",
+  "name": "@uacrypt/uacrypt",
   "version": "0.0.1",
   "description": "UA Crypt is a simple and lightweight library for encrypting and decrypting user agent strings.",
   "publishConfig": {
